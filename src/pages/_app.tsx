@@ -6,8 +6,8 @@ export default ({ Component, pageProps }) => (
     <Component {...pageProps} />
 
     <footer>
-      <span>Deploy your own!</span>
-      <ExtLink href="https://zeit.co/new/project?template=https://github.com/ijjk/notion-blog/tree/master">
+      <span>Follow me!</span>
+      <ExtLink href="https://twitter.com/takagi_1129">
         <img
           src="https://zeit.co/button"
           height={46}
