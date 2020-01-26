@@ -15,15 +15,15 @@ export default () => (
         width="250"
         alt="ZEIT + Notion"
       />
-      <h1>My Notion Blog</h1>
+      <h1>Shunsuke Takagi's Blog</h1>
       <h2>
-        Blazing Fast Notion Blog with Next.js'{' '}
+        Thoese days action is my'{' '}
         <ExtLink
-          href="https://github.com/zeit/next.js/issues/9524"
+          href="https://twitter.com/takagi_1129"
           className="dotted"
           style={{ color: 'inherit' }}
         >
-          SSG
+          Twitter
         </ExtLink>
       </h2>
 
