@@ -15,7 +15,7 @@ export default () => (
         width="250"
         alt="ZEIT + Notion"
       />
-      <h1>Shunsuke Takagi's Blog</h1>
+      <h1>tkgshn note</h1>
       <h2>
         Thoese days action is my'{' '}
         <ExtLink
