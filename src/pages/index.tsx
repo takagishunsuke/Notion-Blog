@@ -1,4 +1,4 @@
-ctimport Link from 'next/link'
+import Link from 'next/link'
 import Header from '../components/header'
 import ExtLink from '../components/ext-link'
 import Features from '../components/features'
