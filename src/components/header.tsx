@@ -26,7 +26,7 @@ export default ({ titlePre = '' }) => {
         />
         <meta name="og:title" content="Shunsuke Takagi's Blog" />
         <meta property="og:image" content={ogImageUrl} />
-        <meta name="twitter:site" content="@takagi_1129" />
+        <meta name="twitter:site" content="@tkgshn" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:image" content={ogImageUrl} />
       </Head>
