@@ -13,12 +13,12 @@ const contacts = [
   {
     Comp: Twitter,
     alt: 'twitter icon',
-    link: 'https://twitter.com/takagi_1129',
+    link: 'https://twitter.com/tkgshn',
   },
   {
     Comp: GitHub,
     alt: 'github icon',
-    link: 'https://github.com/takagishunsuke',
+    link: 'https://github.com/tkgshn',
   },
   {
     Comp: LinkedIn,
@@ -28,7 +28,7 @@ const contacts = [
   {
     Comp: Envelope,
     alt: 'envelope icon',
-    link: 'mailto:takagishunsuke1129@gmail.com?subject=Notion Blog',
+    link: 'mailto:takagishunsuke1129@gmail.com?subject=contact from portfolio',
   },
 ]
 
