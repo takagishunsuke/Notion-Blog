@@ -16,13 +16,7 @@ export default () => (
       />
       <h1>tkgshn note</h1>
       <h2>
-        Thoese days action is my'{' '}
-        <ExtLink
-          href="https://twitter.com/takagi_1129"
-          className="dotted"
-          style={{ color: 'inherit' }}
-        >
-          Twitter
+        Pedagogy to Eliminate inequality.
         </ExtLink>
       </h2>
 
@@ -30,8 +24,7 @@ export default () => (
 
       <div className="explanation">
         <p>
-17歳，N高生．「ハッシャダイ」という会社でユーザー体験をデザインすることメインとしています．スキルセットはPjM/UX/IAあたりです．高校退学→新規事業→サービスデザイン・グロースとか．新規事業をやったり，転職メディアをやったりでリサーチ・MVPの作成・情報デザイン（infomation architecture）・グロースハック・データ分析あたりだったり，UXに基づいたSNSコンテンツ戦略などをやってきました．社外ではbouncyの動画ライターや，英会話塾の「PRESENC」でネットコース新設のPMなどやったりも．今はNoCodeのbubbleで高卒に向けた進路選択をサポートするプロダクトを作っています
-        </p>
+Born in 2002. We aim to close the choice gap through education. I'm interested in implementing in society between academics and business.</p>
 
 
       </div>
